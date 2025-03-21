@@ -12,7 +12,7 @@ greensock();
 const zizou = new TitleHolder(
   "Zinedine Zidane",
   "Nickname: Zizou",
-  "images/Iconic/Zidane.jpg",
+  "images/iconic-Zidane.jpg",
   126,
   14,
   5
@@ -22,7 +22,7 @@ const zizou = new TitleHolder(
 const carlos = new Participant(
   "Roberto Carlos",
   "Nickname: El Hombre ",
-  "images/Iconic/roberto-carlos.webp",
+  "images/iconic-roberto-carlos.webp",
   131,
   22,
   11
@@ -36,7 +36,7 @@ const carlos = new Participant(
 const cr7 = new TitleHolder(
   "CR7",
   "Nickname: EL BICHO",
-  "images/Legends/Ronaldo.png.webp",
+  "images/legends-Ronaldo.webp",
   923,
   39,
   9
@@ -46,7 +46,7 @@ const cr7 = new TitleHolder(
 const bale = new Participant(
   "BALE",
   "Nickname: El Golfer",
-  "images/Legends/BALE.png.webp",
+  "images/legends-BALE.webp",
   181,
   16,
   9
@@ -60,7 +60,7 @@ const bale = new Participant(
 const vini = new TitleHolder(
   "VINI-JR",
   "Nickname: Pajaro Loco",
-  "images/Great/VINI-JR-v2.png",
+  "images/great-VINI-JR-v2.png",
   62,
   7,
   5
@@ -70,7 +70,7 @@ const vini = new TitleHolder(
 const rodyrgo = new Participant(
   "RODYRGO",
   "Nickname: El Rayo",
-  "images/Great/rodyrgo.png",
+  "images/great-rodyrgo.png",
   45,
   6,
   4
