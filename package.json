@@ -1,0 +1,24 @@
+{
+  "name": "anna_nguyen_ali_el-maniary_hw2_oop",
+  "version": "1.0.0",
+  "description": "## Team Members: - **Anna Nguyen** - **Ali El-Maniary**",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaNguyen205/Anna_Nguyen_Ali_El-Maniary_HW2_OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaNguyen205/Anna_Nguyen_Ali_El-Maniary_HW2_OOP/issues"
+  },
+  "homepage": "https://github.com/AnnaNguyen205/Anna_Nguyen_Ali_El-Maniary_HW2_OOP#readme",
+  "devDependencies": {
+    "parcel": "^2.14.1"
+  }
+}
